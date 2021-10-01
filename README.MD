@@ -3,3 +3,11 @@
 <a href="https://github.com/billythegoat356/Jawbreaker">Original obfuscator</a>
 
 ## This script is writter in python3 using only requests and base64 library (like billythegoat obfuscatated code LOL)
+
+main.py is the script
+
+input.py : An exemple of base code
+
+obf.py : Obfuscated input.py code
+
+de-obf.py : Deobfuscated obf.py code
