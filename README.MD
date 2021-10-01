@@ -6,8 +6,7 @@
 
 main.py is the script
 
-input.py : An exemple of base code
-
-obf.py : Obfuscated input.py code
-
-de-obf.py : Deobfuscated obf.py code
+In Exemple folder :
+  input.py : An exemple of base code
+  obf.py : Obfuscated input.py code
+  de-obf.py : Deobfuscated obf.py code
