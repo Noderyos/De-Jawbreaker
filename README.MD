@@ -9,4 +9,4 @@ main.py is the script
 In Exemple folder :<br>
 > input.py : An exemple of base code<br>
   obf.py : Obfuscated input.py code<br>
-  de-obf.py : Deobfuscated obf.py code (it's the same code LOL because my deobfuscator work)
+  de-obf.py : Deobfuscated obf.py code (it's look like input.py LOL because my deobfuscator work)
